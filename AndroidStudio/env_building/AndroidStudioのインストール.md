@@ -39,7 +39,10 @@ New Projectを選択
 「Empty Activity」を選択
 ![step10](img/step10.png)
 
-
+Nameに適切な名前を入力
+LanguageはJavaかKotlinは好きな方を選択
+Finishを押すとプロジェクトが生成される
 ![step11](img/step11.png)
 
-
+プロジェクト画面
+![step12](img/step12.png)
